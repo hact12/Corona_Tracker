@@ -16,7 +16,7 @@ def home(request):
     print(country)
     url = "https://covid-193.p.rapidapi.com/statistics"
     
-    querystring = {"country":"UK"}
+    querystring = {"country":country}
 
     headers = {
         'x-rapidapi-host': "covid-193.p.rapidapi.com",
