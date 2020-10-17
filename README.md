@@ -1,1 +1,1 @@
-# Corona_Tracker
+# this is covid19 statistcs app
